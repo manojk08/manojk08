@@ -216,7 +216,7 @@ DevOps / CI-CD            ███████████████
 ## 📫 Connect With Me
 
 * GitHub: [[Your GitHub Profile]](https://github.com/manojk08)
-* LinkedIn: in/manoj-kale-7b34a4209
+* LinkedIn: [in/manoj-kale-7b34a4209](https://www.linkedin.com/in/manoj-kale-7b34a4209/)
 * Email: manojkale303@gmail.com
 
 ---
